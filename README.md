@@ -8,10 +8,10 @@
 ## 🖥️ 使用環境
 
 Proxmox 目前配置：
-CPU1: E5 2699v4 22 Core
-CPU2: E5 2699v4 22 Core
-RAM: 128 GB
-SSD: 2 TB
+- CPU1: E5 2699v4 22 Core
+- CPU2: E5 2699v4 22 Core
+- RAM: 128 GB
+- SSD: 2 TB
 
 本練習環境主要部署於 Proxmox 虛擬化平台，包含以下架構：
 
