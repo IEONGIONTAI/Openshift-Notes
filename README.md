@@ -20,3 +20,8 @@ Proxmox 目前配置：
 - Worker Node (6vCPU/16G) x2
 - (Feature) 搭配 Ansible Automation Platform 進行自動化設定與管理
 
+docs/ 放置一些筆記或教學文件，例如：
+- OpenShift 架構簡介
+- 安裝流程紀錄
+- 常見問題與Troubleshooting
+- 升級策略
